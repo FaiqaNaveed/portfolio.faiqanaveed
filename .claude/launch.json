@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "http-server", "D:/Portfolio/faiqa-portfolio", "-p", "4317", "-c-1"],
+      "port": 4317
+    }
+  ]
+}
